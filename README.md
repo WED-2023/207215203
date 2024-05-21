@@ -1,8 +1,8 @@
 # Personal Website of Albert Einstein
 
 ## Important Details
-ID - 207215203
-github.io URL - https://wed-2023.github.io/207215203/
+- ID - 207215203
+- github.io URL - https://wed-2023.github.io/207215203/
 
 ## Overview
 This is a personal website for Albert Einstein, featuring details about his life, his contributions to physics, and some interactive elements for user engagement. The website is structured into various sections including About Me, Photos, Playlist, and more.
